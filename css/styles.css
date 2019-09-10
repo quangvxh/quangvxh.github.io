@@ -1,0 +1,36 @@
+@charset "utf-8";
+body {
+			background-color:#96713C;
+			font-family: 'Metrophobic', sans-serif;
+		}
+		#content {
+			padding: 4%;
+		}
+		.sidebar {
+			background-color: #7DC0E1;
+		}
+		nav, footer {
+			background-color:#00195F; 
+		}
+		nav ul li a {
+			color: white;
+			}
+.navbar-brand {
+	margin-left: 15px;
+}
+	
+		footer p {
+			color: white;
+		}
+		h1 {
+			font-family: 'Charmonman', cursive;
+			font-weight: bold;
+		}
+		.card-header {
+			background-color: #00195F;
+			color: white;
+			font-weight: bold;
+		}
+		.card-body {
+			overflow: hidden;
+		}
